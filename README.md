@@ -3,7 +3,7 @@
 This is my KaggleX Project on Data Visualization and Exploration using Python (Part 1). 
 In this part i explored the features of this dataset and build an interactive charts with Plotly. I also built and interactive dashbord using Streamlit, the link can be found [Here](https://medium.com/@oriji.sandra_21900/building-interactive-charts-with-plotly-07a379452c74).
 
-I this project i looked at the Region with more sales, Product Segment customers buys more per each region, total salesa and profit. I also looked at the year sales and profit, the shipping, mode customers prefer to use and i looked at the number of customers ecah region has. All these and more can be found in the jupyter notebook file.
+I looked at the Region with more sales, Product Segment customers buys more per each region, total salesa and profit. I also looked at the year sales and profit, the shipping, mode customers prefer to use and i looked at the number of customers ecah region has. All these and more can be found in the jupyter notebook file.
 
 The dataset used can be found in [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
