@@ -13,3 +13,5 @@ My github repo where i explain more about the data can be found [Here](https://w
 I equally wrote and article on medium, [Here](https://medium.com/@oriji.sandra_21900/building-interactive-charts-with-plotly-07a379452c74)
 
 The Part 2 will be on Forecasting with Prophet.
+
+GitHub is not displaying the charts in my notebook, so to view i added it to jupyter nbviewer. So to view the interactive plot charts use this link [Here](https://nbviewer.org/github/Onyinye91-ctrl/Superstore-Sales/blob/main/stores.ipynb)
