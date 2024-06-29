@@ -1,7 +1,7 @@
 # Superstore-Sales
 ### Superstore Data Visualization and Exploration
 This is my KaggleX Project on Data Visualization and Exploration using Python (Part 1). 
-In this part i explored the features of this dataset and build an interactive charts with Plotly. I also built and interactive dashbord using Streamlit, the link can be found [Here](https://medium.com/@oriji.sandra_21900/building-interactive-charts-with-plotly-07a379452c74).
+In this part i explored the features of this dataset and build an interactive charts with Plotly. I also built and interactive dashbord using Streamlit, the link can be found [https://m35jf2fj6buemnvpxvmwfk.streamlit.app/).
 
 I looked at the Region with more sales, Product Segment customers buys more per each region, total sales and profit. I also looked at the yearly sales and profit, shipping mode customers prefer to use and i looked at the number of customers each region has. All these and more can be found in the jupyter notebook file.
 
