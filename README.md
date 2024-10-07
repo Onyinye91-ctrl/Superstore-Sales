@@ -7,7 +7,7 @@ I looked at the Region with more sales, Product Segment customers buys more per 
 
 The dataset used can be found in [Kaggle](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
-My github repo where i explain more about the data can be found [Here](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
+My github repo where i explain more about the data can be found [Here](https://github.com/Onyinye91-ctrl/Superstore_Dashboard-Streamlit-)
 
 
 I equally wrote and article on medium, [Here](https://medium.com/@oriji.sandra_21900/building-interactive-charts-with-plotly-07a379452c74)
